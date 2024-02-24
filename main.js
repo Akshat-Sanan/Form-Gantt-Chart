@@ -22,7 +22,7 @@ function drawChart() {
         new Date(2024, 1, 10), new Date(2024, 1, 13), null,  100, null],
 
         ['finalDesign', 'Final Design',
-        null, new Date(2024, 1, 18), daysToMilliseconds(6), 95, 'writer'],
+        null, new Date(2024, 1, 18), daysToMilliseconds(6), 90, 'writer'],
 
         ['Development', 'Final Development + Bugs and Testing',
         new Date(2024, 1, 15), new Date(2024, 1, 23), null, 90, 'finalDesign'],
